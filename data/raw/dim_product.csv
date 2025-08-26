@@ -1,0 +1,6 @@
+product_id,product_name,category
+1,Card,Payments
+2,P2P,Payments
+3,TopUp,Wallet
+4,QR,Payments
+5,Loan,Lending
